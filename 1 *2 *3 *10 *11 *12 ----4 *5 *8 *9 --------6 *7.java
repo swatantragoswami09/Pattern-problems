@@ -1,3 +1,9 @@
+// 1  *2  *3  *10 *11 *12 
+// ----4  *5  *8  *9  
+// --------6  *7  
+
+
+
 
 import java.util.*;
 public class Main
